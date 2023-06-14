@@ -1,0 +1,15 @@
+﻿Chocolate Tablets;100;Max_Brenner1.jpg
+Biscuit Collection Gift Tin;69;Godiva3.jpg
+Grande Mints;490;Godiva7.jpg
+Deluxe Oval Tin;380;Godiva8.jpg
+24 Mignonnettes Lait;12004;Cote_dor8.jpg
+Giant Cadbury Dairy Milk;6470;cadbury4.jpg
+Lindt Milk Truffles Gift Box;490;Lindt1.jpg
+Assorted Lindt Truffle Gold;570;Lindt2.jpg
+Lindt Bars - Truffle;15900;Lindt3.jpg
+Lindt Bars - Swiss Classic;23700;Lindt4.jpg
+16 Piece Gift Box;5000;Ferrero_Rocher1.jpg
+Valentine Day Heart;1780;Ferrero_Rocher4.jpg
+The Pyramid;7000;Ferrero_Rocher5.jpg
+Milk Chocolate & Fresh Cream;2050;Milka10.jpg
+Chocolate Strawberries&Yoghurt;9025;Milka12.jpg
